@@ -1,2 +1,2 @@
 # BrainDeEconomic
-Economic development 
+Economic analysis app for Nigeria 
